@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Sat Jun 23 20:54:16 CST 2018
+2.base=D\:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+5.set=ASSET
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=D\:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.set=NATIVE_RESOURCE
+1.path=retrained_labels.txt
+4.base=D\:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+count=7
+5.baseType=DIRECTORY
+2.path=lib/x86/libtensorflow_inference.so
+5.base=D\:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\assets\\debug
+4.set=NATIVE_RESOURCE
+3.path=lib/x86_64/libtensorflow_inference.so
+6.base=D\:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=lib/arm64-v8a/libtensorflow_inference.so
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=rounded_graph.pb
+0.base=D\:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/armeabi-v7a/libtensorflow_inference.so
+1.base=D\:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=DEX

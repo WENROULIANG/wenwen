@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\温柔\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\b4e6804f3adca018499e3a193d6dad5a\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\温柔\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\b4e6804f3adca018499e3a193d6dad5a\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\温柔\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\b4e6804f3adca018499e3a193d6dad5a\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\anzhuo\\application\\tensorflow-android-classifier-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\温柔\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\b4e6804f3adca018499e3a193d6dad5a\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
